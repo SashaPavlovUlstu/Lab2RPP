@@ -34,5 +34,3 @@ with open("C:\\Users\\sasha\\OneDrive\\Рабочий стол\\РПП\\Лаб2\
 
     result = mnozh_matrix(matrix)
     file.write(f"\nResult: {result}")
-print("Git")
-print("clone Git")
